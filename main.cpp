@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-	const int tam=100;
+	const int tam=200;
 	int n=10;
 	string buscar, actualizar;
 	producto medicamentos[tam]={
