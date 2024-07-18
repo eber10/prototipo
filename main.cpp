@@ -24,7 +24,7 @@ int main()
 		{"salbutamol", 3.00, 2, "3/04/24"}
 		
 	};
-	
+	cout<<"bienvenido"<<endl;
 	int op;
 	do
 	{
