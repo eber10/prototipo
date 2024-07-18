@@ -51,6 +51,6 @@ int main()
 		}
 	}
 	while(op!=0);
-	
+	cout<<"------Gracias-----";
 	return 0;
 }
